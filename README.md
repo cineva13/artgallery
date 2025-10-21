@@ -66,6 +66,6 @@
 
 ![Use-case диаграмма](https://golnk.ru/wAMnN)
 
-![Блок-схема)общие процессы)](https://golnk.ru/xX2Ww)
+![Блок-схема(общие процессы)](https://golnk.ru/pwXdd)
 
 ![Блок-схема(добавление экспоната)](https://golnk.ru/aBwq6)
